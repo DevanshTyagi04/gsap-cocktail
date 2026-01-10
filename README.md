@@ -1,16 +1,93 @@
-# React + Vite
+# 🍸 GSAP Cocktail Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An animated cocktail-themed website built while learning **GSAP (GreenSock Animation Platform)**.  
+This project focuses on creating smooth, engaging animations using **GSAP timelines**, **scroll-based effects**, and modern React tooling.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://cocktail-opal.vercel.app/  
+📦 **Source Code:** https://github.com/DevanshTyagi04/gsap-cocktail
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Smooth GSAP-powered animations
+- Timeline-based transitions
+- Scroll-triggered effects
+- Modern UI with motion-focused design
+- Built using fast and lightweight Vite setup
+- Fully responsive layout
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React** – Component-based UI
+- **Vite** – Fast development & build tool
+- **GSAP** – Advanced animations and timelines
+- **CSS** – Styling and layout
+
+---
+
+## 🎯 Learning Objectives
+
+This project was built to:
+
+- Understand GSAP core concepts (timelines, tweens)
+- Learn how to integrate GSAP with React
+- Practice scroll-based animations
+- Improve UI/UX using motion design
+- Get comfortable deploying frontend apps on Vercel
+
+---
+
+## 📂 Project Structure
+
+src/
+├─ assets/
+├─ components/
+├─ App.jsx
+├─ main.jsx
+└─ index.css
+
+## 🚀 Getting Started Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/DevanshTyagi04/gsap-cocktail.git
+cd gsap-cocktail
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+npm run dev
+
+Build for production:
+
+npm run build
+
+---
+##🌐 Deployment
+---
+This project is deployed using Vercel.
+
+🔗 Live URL: https://cocktail-opal.vercel.app/
+
+📌 Future Improvements
+
+Add more interactive GSAP effects
+
+Improve accessibility
+
+Optimize animations for performance
+
+Add mobile-specific animation tweaks
+
+👨‍💻 Author
+
+Devansh Tyagi
+Computer Science Graduate (2026)
+GitHub: https://github.com/DevanshTyagi04
