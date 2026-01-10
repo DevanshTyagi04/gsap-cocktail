@@ -47,7 +47,7 @@ const Contact = () => {
             <h2>Where to Find Us</h2>
             <div>
                 <h3>Visit Our Store</h3>
-                <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+                <p>Shop 12, Green Plaza, MG Road, Pune – 411001</p>
             </div>
             <div>
                 <h3>Contact Us</h3>
