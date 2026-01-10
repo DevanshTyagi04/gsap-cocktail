@@ -49,29 +49,29 @@ src/
 ├─ main.jsx
 └─ index.css
 
+---
+
 ## 🚀 Getting Started Locally
 
-Clone the repository:
+### Clone the repository:
 
-```bash
 git clone https://github.com/DevanshTyagi04/gsap-cocktail.git
 cd gsap-cocktail
 
-Install dependencies:
+### Install dependencies:
 
 npm install
 
-Run the development server:
+### Run the development server:
 
 npm run dev
 
-Build for production:
+### Build for production:
 
 npm run build
 
----
-##🌐 Deployment
----
+## 🌐 Deployment
+
 This project is deployed using Vercel.
 
 🔗 Live URL: https://cocktail-opal.vercel.app/
