@@ -76,7 +76,7 @@ This project is deployed using Vercel.
 
 🔗 Live URL: https://cocktail-opal.vercel.app/
 
-📌 Future Improvements
+### 📌 Future Improvements
 
 Add more interactive GSAP effects
 
@@ -86,8 +86,6 @@ Optimize animations for performance
 
 Add mobile-specific animation tweaks
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Devansh Tyagi
-Computer Science Graduate (2026)
-GitHub: https://github.com/DevanshTyagi04
+### Devansh Tyagi
